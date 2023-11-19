@@ -28,7 +28,7 @@ This Android application is a simple app that allows the user to input and store
 
 ## Screenshots
 
-![StoringDataApp Screenshot](readme-assets/ss.png)
+<img src="readme-assets/ss.png" alt="CountDownTimer App Screenshot" height=800 width=400>
 
 ## Technologies
 
